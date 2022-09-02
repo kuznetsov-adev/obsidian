@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "notes/readme.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "notes/readme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "notes/readme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "notes/readme.md"
               }
             }
           }
@@ -129,5 +129,12 @@
     "collapsed": true
   },
   "active": "08430aa94291dc27",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "notes/Без названия.md",
+    "notes/readme.md",
+    "readme2.md",
+    "Pasted image 20220902085351.png",
+    "Royal family.webp",
+    "README.md"
+  ]
 }
