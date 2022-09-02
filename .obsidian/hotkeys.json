@@ -30,5 +30,13 @@
       ],
       "key": "-"
     }
+  ],
+  "code-block-plugin:Add code block": [
+    {
+      "modifiers": [
+        "Meta"
+      ],
+      "key": "C"
+    }
   ]
 }

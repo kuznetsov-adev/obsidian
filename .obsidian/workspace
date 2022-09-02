@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "notes/readme.md",
+            "file": "base/android/skillbox/Без названия.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/readme.md",
+                "file": "base/android/skillbox/Без названия.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/readme.md",
+                "file": "base/android/skillbox/Без названия.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/readme.md"
+                "file": "base/android/skillbox/Без названия.md"
               }
             }
           }
@@ -130,8 +130,11 @@
   },
   "active": "08430aa94291dc27",
   "lastOpenFiles": [
-    "notes/Без названия.md",
+    "sources/Pasted image 20220902092632.png",
+    "sources/Pasted image 20220902092600.png",
+    "base/android/skillbox/Без названия.md",
     "notes/readme.md",
+    "notes/Без названия.md",
     "readme2.md",
     "Pasted image 20220902085351.png",
     "Royal family.webp",
