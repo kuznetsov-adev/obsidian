@@ -1,5 +1,11 @@
 {
   "promptDelete": false,
   "newFileLocation": "current",
-  "attachmentFolderPath": "sources"
+  "attachmentFolderPath": "sources",
+  "showLineNumber": true,
+  "spellcheckLanguages": [
+    "en-US",
+    "ru"
+  ],
+  "alwaysUpdateLinks": true
 }
