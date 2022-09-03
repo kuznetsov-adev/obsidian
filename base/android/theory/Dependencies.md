@@ -1,7 +1,7 @@
 #android/dependencies
 
 ### Coroutindes
-[Теория](theory/Coroutines)  
+[Теория](27.%20Coroutines.md)  
 [Практика](practice/Coroutines)  
 #android/dependencies/coroutines
 ```groovy
