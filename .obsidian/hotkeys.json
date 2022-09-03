@@ -7,14 +7,6 @@
       "key": "1"
     }
   ],
-  "editor:insert-link": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "A"
-    }
-  ],
   "editor:toggle-code": [
     {
       "modifiers": [
@@ -37,6 +29,15 @@
         "Meta"
       ],
       "key": "C"
+    }
+  ],
+  "editor:insert-wikilink": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "K"
     }
   ]
 }

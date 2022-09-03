@@ -2,10 +2,13 @@
   "promptDelete": false,
   "newFileLocation": "current",
   "attachmentFolderPath": "sources",
-  "showLineNumber": true,
+  "showLineNumber": false,
   "spellcheckLanguages": [
     "en-US",
     "ru"
   ],
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "readableLineLength": true,
+  "strictLineBreaks": true,
+  "lineWrap": true
 }
