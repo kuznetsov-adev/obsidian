@@ -65,10 +65,10 @@ ought to
 		<tr style="border-top: 2px solid #aaa; border-left: 2px solid #aaa; border-right: 2px solid #aaa">
 			<td rowspan="2" style="text-align: center; font-weight: bold;">might</td>
 			<td style="border-left: 2px solid #aaa;">past form of "may"</td>
-			<td style="border-left: 2px solid #aaa;"><i>past form of "may"</i></td>
+			<td style="border-left: 2px solid #aaa;"><i>He said he might change his mind.</i></td>
 		</tr>
 		<tr style="border-left: 2px solid #aaa; border-right: 2px solid #aaa">
-			<td style="border-left: 2px solid #aaa;">possibility</td>
+			<td style="border-left: 2px solid #aaa;">possibility (наименьшая возможность %25)</td>
 			<td style="border-left: 2px solid #aaa;"><i>This might fail.</i></td>
 		</tr>
 		<tr style="border-top: 2px solid #aaa; border-left: 2px solid #aaa; border-right: 2px solid #aaa">
@@ -82,7 +82,7 @@ ought to
 		</tr>
 		<tr  style="border-top: 2px solid #aaa; border-left: 2px solid #aaa; border-right: 2px solid #aaa">
 			<td style="text-align: center; font-weight: bold;">must not <br>mustn't</td>
-			<td style="border-left: 2px solid #aaa;">you are not allowed to do it</td>
+			<td style="border-left: 2px solid #aaa;">you are not allowed to do it (need to check / inner ban)</td>
 			<td style="border-left: 2px solid #aaa;"><i>You mustn't smoke in here</i></td>
 		</tr>
 		<tr style="border-top: 2px solid #aaa; border-left: 2px solid #aaa; border-right: 2px solid #aaa">
