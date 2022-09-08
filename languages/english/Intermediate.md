@@ -143,6 +143,43 @@ ought to
 	</tbody>
 </table>
 
+<table class="iksweb">
+<style> 
+	table, th, td { border: 1px solid black; } 
+</style>
+	<tbody>
+		<tr>
+			<td style="font-weight: bold; background-color: #4e657e; color: #fff">Situation</td>
+			<td style="font-weight: bold; background-color: #4e657e; ; color: #fff">Modal verb</td>
+			<td style="font-weight: bold; background-color: #4e657e; ; color: #fff">Example</td>
+		</tr>
+		<tr style="border-left: 2px solid #aaa; border-right: 2px solid #aaa">
+			<td style="text-align: center; font-weight: bold">request <br>(formal)</td>
+			<td style="border-left: 2px solid #aaa; text-align: center">may</td>
+			<td style="border-left: 2px solid #aaa;"><i>May I sit down?</i></td>
+		</tr>
+		<tr style="border-left: 2px solid #aaa; border-right: 2px solid #aaa">
+			<td style="text-align: center; font-weight: bold">request <br>(informal)</td>
+			<td style="border-left: 2px solid #aaa; text-align: center">can</td>
+			<td style="border-left: 2px solid #aaa;"><i>Can I sit down?</i></td>
+		</tr>
+		<tr style="border-left: 2px solid #aaa; border-right: 2px solid #aaa">
+			<td rowspan="2" style="text-align: center; font-weight: bold">request <br>(polite)</td>
+			<td style="border-left: 2px solid #aaa; text-align: center">could</td>
+			<td style="border-left: 2px solid #aaa;"><i>Could I sit down?</i></td>
+		</tr>
+		<tr style="border-left: 2px solid #aaa; border-right: 2px solid #aaa">
+			<td style="border-left: 2px solid #aaa; text-align: center">would</td>
+			<td style="border-left: 2px solid #aaa;"><i>Would you mind if I sit down?</i></td>
+		</tr>
+		<tr style="border-left: 2px solid #aaa; border-right: 2px solid #aaa">
+			<td style="text-align: center; font-weight: bold">permission <br>(formal)</td>
+			<td style="border-left: 2px solid #aaa; text-align: center">may</td>
+			<td style="border-left: 2px solid #aaa;"><i>Can I sit down?</i></td>
+		</tr>
+		</tbody>
+</table>
+
 
 
 
