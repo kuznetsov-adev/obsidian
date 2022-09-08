@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "3cbb2223f0ff74d6",
+        "id": "dbcd815fdc251fdb",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "base/android/practice/Coroutines.md",
-            "mode": "source",
+            "file": "languages/english/Intermediate.md",
+            "mode": "preview",
             "source": false
           }
         }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#tools/markdown",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "base/android/practice/Coroutines.md",
+                "file": "languages/english/Intermediate.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "base/android/practice/Coroutines.md",
+                "file": "languages/english/Intermediate.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "base/android/practice/Coroutines.md"
+                "file": "languages/english/Intermediate.md"
               }
             }
           },
@@ -136,17 +136,17 @@
     "direction": "horizontal",
     "width": 299.5
   },
-  "active": "3cbb2223f0ff74d6",
+  "active": "dbcd815fdc251fdb",
   "lastOpenFiles": [
-    "base/android/theory/27. Coroutines.md",
-    "base/android/theory/Dependencies.md",
-    "base/android/theory/Coroutines best practices.md",
-    "base/android/practice/Coroutines.md",
-    "base/tools/Tools.md",
-    "sources/CoroutinesStates.svg",
-    "sources/ChildCoroutine.svg",
-    "base/Untitled.md",
-    "base/webapp/Untitled.md",
-    "base/android/theory/Без названия.md"
+    "tools/Tools.md",
+    "languages/english/Intermediate.md",
+    "sources/Dependency.svg",
+    "base/android/1. theory/12``1df4efbnjk bbbb .bk.xc zxc sXx.md",
+    "base/android/1. theory/Untitled Diagram.svg.md",
+    "dev/base/android/1. theory/27. Coroutines.md",
+    "dev/base/android/1. theory/26. Shared preferences.md",
+    "dev/base/android/2. practice/27. Coroutines.md",
+    "dev/base/android/3. additional/di/Доп. материалы.md",
+    "dev/base/android/3. additional/di/DI Голосарий.md"
   ]
 }
